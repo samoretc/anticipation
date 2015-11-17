@@ -1,2 +1,2 @@
-# anticipation
-This web app recommends concerts in your area
+# Hurizen
+This web app will recommend concerts in your area.
